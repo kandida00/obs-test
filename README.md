@@ -2,6 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Description
+
+This React-based web application provides a user management interface with Redux for state management. It allows users to view, add, edit, and delete users. The application uses Material-UI for styling and includes a modal for user details and actions.
+
+# Features
+
+User List: Displays a list of users with details like name, username, and email.
+Add/Edit User: Modal for adding or editing user details.
+Delete User: Option to delete users from the list.
+User Pictures: Random profile pictures fetched from the Picsum Photos API.
+
 ## Available Scripts
 
 In the project directory, you can run:
